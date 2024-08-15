@@ -4,7 +4,7 @@ USAGE LINUX
 
 command: g++ main.cpp -o allocateBytes
 
-
+--------------------------------------
 
 USAGE WINDOWS
 
