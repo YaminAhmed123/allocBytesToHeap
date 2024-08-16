@@ -8,4 +8,4 @@ command: g++ main.cpp -o allocateBytes
 
 USAGE WINDOWS
 
-command: g++ main.cpp -o allocateBytes
+command: g++ main.cpp -o allocateBytes.exe
